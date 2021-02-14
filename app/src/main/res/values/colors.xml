@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">@color/red_color</color>
+  <color name="colorPrimaryDark">#AA0000</color>
+  <color name="colorAccent">#008300</color>
+
+  <color name="gray_color">#666666</color>
+  <color name="divider_color">#EAE7E7</color>
+  <color name="red_color">#cc0000</color>
+  <color name="aisle_circle_color">#EDE9E9</color>
+  <color name="or_txt_color">#EDE9E9</color>
+  <color name="aisle_txt_color">#F44336</color>
+  <color name="add_to_cart_bg">#F44336</color>
+  <color name="add_to_cart_txt_clr">#fff</color>
+  <color name="deal_price_detail_txtclr">#F44336</color>
+  <color name="add_to_list_txt_clr">#666666</color>
+  <color name="add_to_list_bg">#CFCDCD</color>
+</resources>
